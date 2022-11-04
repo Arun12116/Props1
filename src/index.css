@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* background-color:beige; */
+}
+.card{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  /* border: 2px solid red; */
+
+}
+.Cards{
+  width:16vw;
+  height:45vh;
+  margin:1rem;
+list-style: none;
+box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+.list{
+  /* width:15vw;
+  height:50vh;
+   border: 2px solid rgb(161, 148, 148); */
+}
+
+ .inner{
+  display: flex;
+  justify-content: center;
+ align-items: center;
+  margin-top: 14rem;
+  /* width:100%; */
+  background-color: white;
+  height:30%;
+}
